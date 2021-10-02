@@ -15,5 +15,7 @@ El conjunto de datos motivo de análisis se denomina: “Hotel booking demand”
 El dataset proporcionado muestra la demanda de dos tipos de hoteles. En total se tienen en total 32 variables Y 119390 registros. Para el primer tipo de hotel (City Hotel) se tienen almacenados 79330 registros, mientras que en el segundo (Resort Hotel) se tienen almacenados 40060 registros. La fecha de los registros va desde 1 de julio del 2015 hasta el 31 de agosto del año 2017. La última actualización del dataset fue publicado el 12 de febrero del 2020 por Jesse Mostipak en su cuenta de” Kaggle”. Jesse es Data Science Evangelist en RStudio proveniente de Dallas, Texas, Estados Unidos.
 
 # Licencia
+Apache License 2.0
 
+Una licencia permisiva cuyas principales condiciones requieren la preservación de derechos de autor y avisos de licencia. Los contribuyentes proporcionan una concesión expresa de derechos de patente. Los trabajos con licencia, las modificaciones y los trabajos más grandes pueden distribuirse bajo diferentes términos y sin código fuente.
 
