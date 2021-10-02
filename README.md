@@ -2,7 +2,8 @@
 TA1 TRABAJO GRUPAL
 
 # Integrantes
-Erick Wilson Aronés Garcilazo 
+Erick Wilson Aronés Garcilazo
+
 David Marin Yanallaco Temoche
 
 # Objetivo
