@@ -16,14 +16,24 @@ El dataset proporcionado muestra la demanda de dos tipos de hoteles. En total se
 
 # Conclusiones preeliminares 
 a. ¿Cuántas reservas se realizan por tipo de hotel? o ¿Qué tipo de hotel prefiere la gente?
+
 Analizando la primera gráfica, llegamos a la conclusión que la mayoría de las personas prefieren los hoteles de ciudad (City Hotel), la cantidad de reservas hechas en City Hotel superan por 17300 al Resort Hotel.
+
 b. ¿Está aumentando la demanda con el tiempo?
+
 Con la gráfica analizada visualizamos que las demandas tuvieron su punto mas alto en el 2016 para los 2 tipos de hoteles. Sin embargo, también se aprecia que la demanda desde ese punto se ha ido reduciendo cada vez más, para ambos tipos de hoteles. 
+
 c. ¿Cuándo se producen las temporadas de reservas: alta media y baja?
+
 De acuerdo con la gráfica podemos apreciar que los meses de temporada baja son enero, febrero, noviembre y diciembre. La temporada de demanda media es en los meses de marzo, abril, junio, setiembre y octubre. Finalmente la demanda alta es en mayo y en los meses de verano en EE.UU julio y agosto.
+
 d. ¿Cuándo es menor la demanda de reservas?
-Analizando la gráfica de distribución de demanda podemos decir que el mes de menor demanda es enero seguido diciembre, esta información coincide con los meses de invierno en EE.UU donde muchas personas optan por quedarse en sus casas.
+
+Analizando la gráfica de distribución de demanda podemos decir que el mes de menor demanda es enero seguido diciembre, esta información coincide con los meses de invierno en 
+EE.UU donde muchas personas optan por quedarse en sus casas.
+
 e. ¿Cuántas reservas incluyen niños y/o bebes?
+
 De acuerdo con la gráfica, concluimos que el 96% de las personas viajan sin ningún niño o bebe. Este resultado supera enormemente a la cantidad de reservas incluyen niños o bebes.
 
 # Licencia
