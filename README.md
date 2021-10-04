@@ -1,10 +1,4 @@
 # ea-2021-1-cc51
-TA1 TRABAJO GRUPAL
-
-# Integrantes
-Erick Wilson Aronés Garcilazo
-
-David Marin Yanallaco Temoche
 
 # Objetivo
 Realizar un análisis exploratorio de un conjunto de datos, creando visualizaciones, preparando los datos
@@ -43,5 +37,3 @@ Una licencia permisiva cuyas principales condiciones requieren la preservación 
 
 # Informe
 (https://github.com/Erick832/ea-2021-1-cc51/files/7272597/Ta1.pdf)
-
-
