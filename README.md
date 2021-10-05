@@ -33,7 +33,4 @@ De acuerdo con la gráfica, concluimos que el 96% de las personas viajan sin nin
 # Licencia
 Apache License 2.0
 
-Una licencia permisiva cuyas principales condiciones requieren la preservación de derechos de autor y avisos de licencia. Los contribuyentes proporcionan una concesión expresa de derechos de patente. Los trabajos con licencia, las modificaciones y los trabajos más grandes pueden distribuirse bajo diferentes términos y sin código fuente.[Ta1.pdf]
-
-# Informe
-(https://github.com/Erick832/ea-2021-1-cc51/files/7272597/Ta1.pdf)
+Una licencia permisiva cuyas principales condiciones requieren la preservación de derechos de autor y avisos de licencia. Los contribuyentes proporcionan una concesión expresa de derechos de patente. Los trabajos con licencia, las modificaciones y los trabajos más grandes pueden distribuirse bajo diferentes términos y sin código fuente.
